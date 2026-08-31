@@ -1,0 +1,8 @@
+{
+  "name": "Eco-Drive: Efficiency Challenge",
+  "description": "Master EV regenerative braking and ICE fuel-saving techniques to compare real-world energy efficiency across diverse 3D environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
